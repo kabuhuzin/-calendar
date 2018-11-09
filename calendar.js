@@ -37,6 +37,7 @@ function SETtime(){
     let Second = ('0' + cutime.getSeconds()).slice(-2);
     document.getElementById('jptime').innerHTML = `${Hour}:${Minute}:${Second}`;
 }
+
 setInterval(SETtime,1000);
     
 //表の作成
