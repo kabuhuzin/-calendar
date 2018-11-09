@@ -1,0 +1,339 @@
+body{
+  margin:0px;
+  padding: 0px;
+  font-family: serif;
+}
+
+.YM{
+  color: rgb(255, 255, 255);
+  position: relative;
+  top: 70px;
+  left: 50px;
+  z-index: 5;
+}
+
+.time{
+  color: rgb(255, 255, 255);
+  position: relative;
+  bottom: 50px;
+  left: 350px;
+  z-index: 4;
+}
+
+.TBL{
+  border: rgba(255, 255, 255, 0.651);
+  position: absolute;
+  text-align: center;
+  padding: 10px;
+  z-index: 6;
+}
+
+
+.sky{
+  margin: 0%;
+  width: 1600px;
+  height: 1800px;
+  position: absolute;
+  top: 0px;
+  z-index: 1;
+}
+
+.gazou{
+  position: relative;
+  left: 1200px;
+  top: 1400px;
+  z-index: 3;
+}
+
+.huri{
+  position: relative;
+  left: 1150px;
+  top: 1400px;
+  z-index: 2;
+}
+
+.tdchaos1{
+  color: tomato;
+}
+
+.tdchaos2{
+  color: rgb(243, 243, 243);
+}
+
+.tdchaos3{
+  color: rgb(243, 243, 243);
+
+}
+
+.tdchaos4{
+  color: rgb(243, 243, 243);
+}
+
+.tdchaos5{
+  color: rgb(243, 243, 243);
+}
+
+.tdchaos6{
+  color: rgb(243, 243, 243);
+}
+
+.tdchaos7{
+ color: rgb(65, 255, 255);
+}
+
+
+.td0{
+  color: rgb(255, 255, 255);
+  background-color: Transparency;
+  height: 50px;
+}
+
+.td2{
+  color: rgb(255, 255, 255);
+  height: 50px;
+}
+
+.td4{
+  color: rgb(255, 255, 255);
+  height: 50px;
+}
+
+.td6{
+  color: rgb(255, 255, 255);
+  height: 50px;
+}
+
+.td8{
+  color: rgb(255, 255, 255);
+  height: 50px;
+}
+
+.td10{
+  color: rgb(255, 255, 255);
+  height: 50px;
+}
+
+
+
+.tarea0{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea1{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea2{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea3{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea4{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea5{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea6{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+}
+.tarea7{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea8{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea9{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea10{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea11{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea12{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea13{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+}
+
+.tarea14{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea15{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea16{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea17{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea18{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea19{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea20{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+}
+.tarea21{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea22{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea23{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea24{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea25{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea26{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+background-color: rgba(240, 248, 255, 0)
+}
+.tarea27{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+}
+.tarea28{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+  }
+  .tarea29{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+  }
+  .tarea30{
+    font-size: 15px;
+    color: rgba(248, 248, 248, 0.76);
+  background-color: rgba(240, 248, 255, 0)
+  }
+  .tarea31{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+  }
+  .tarea32{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+  }
+  .tarea33{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+  }
+  .tarea34{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(240, 248, 255, 0)
+  }
+  .tarea35{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+  }
+  .tarea36{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+  }
+  .tarea37{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+  }
+  .tarea38{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+  }
+  .tarea38{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+  }
+  .tarea39{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+  }
+  .tarea40{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(240, 248, 255, 0)
+  }
+  .tarea41{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+  }
+  .tarea42{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+  background-color: rgba(240, 248, 255, 0)
+  }
+
