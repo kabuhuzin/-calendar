@@ -205,9 +205,7 @@ class4[6].style.color = 'rgb(65, 255, 255)';
 class6[6].style.color = 'rgb(65, 255, 255)';
 class8[6].style.color = 'rgb(65, 255, 255)';
 
-//祝日色付け　12/23 天皇誕生日　24振替休日
-class8[0].style.color = 'tomato';
-class8[1].style.color = 'tomato';
+
 
 
 
