@@ -1,6 +1,7 @@
 body{
   margin: 0%;
   font-family: serif;
+
 }
 
 div{
@@ -17,9 +18,11 @@ div{
 }
 
 .time{
+  margin: 0%;
+  padding: 0%;
   color: rgb(255, 255, 255);
-  position: absolute;
-  bottom: 500px;
+  position: relative;
+  bottom: 24px;
   left: 350px;
   z-index: 4;
 }

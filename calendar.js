@@ -3,6 +3,8 @@
 let Weeklist = ['日', '月', '火', '水', '木', '金', '土'];
 let EtMonth = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
 
+//文字の色を変える
+
 //日付のデータを取得
 let cudate = new Date();
 let Year = cudate.getFullYear();
