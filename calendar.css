@@ -1,37 +1,45 @@
 body{
-  margin:0px;
-  padding: 0px;
+  margin: 0%;
   font-family: serif;
+
+}
+
+div{
+  width: 100%;
+  overflow: hidden;
 }
 
 .YM{
   color: rgb(255, 255, 255);
   position: relative;
-  top: 70px;
+  top: 49px;
   left: 50px;
   z-index: 5;
 }
 
 .time{
+  margin: 0%;
+  padding: 0%;
   color: rgb(255, 255, 255);
   position: relative;
-  bottom: 50px;
+  bottom: 24px;
   left: 350px;
   z-index: 4;
 }
 
 .TBL{
   border: rgba(255, 255, 255, 0.651);
-  position: absolute;
+  margin-left: 10px;
+  margin-top: 80px;
+  position: relative;
   text-align: center;
-  padding: 10px;
+  
   z-index: 6;
 }
 
 
 .sky{
-  margin: 0%;
-  width: 1600px;
+  width: 1500px;
   height: 1800px;
   position: absolute;
   top: 0px;
@@ -40,15 +48,13 @@ body{
 
 .gazou{
   position: relative;
-  left: 1200px;
-  top: 1400px;
+  left: 610px;
   z-index: 3;
 }
 
 .huri{
   position: relative;
-  left: 1150px;
-  top: 1400px;
+  left: 600px;
   z-index: 2;
 }
 
