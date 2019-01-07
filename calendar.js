@@ -209,8 +209,8 @@ class8[6].style.color = 'rgb(65, 255, 255)';
 
 //祝日色付け　11/3文化の日　 11/23勤労感謝の日
 
-class8[0].style.color = 'tomato';
-class8[1].style.color = 'tomato'
+class0[2].style.color = 'tomato';
+class3[1].style.color = 'tomato'
 
 
 if(HYline*2 === 10){
